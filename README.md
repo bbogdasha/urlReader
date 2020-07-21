@@ -12,4 +12,4 @@ The program reads a text file [urls.txt](https://raw.githubusercontent.com/bbogd
 
 In console sorted top 10 domains without addresses:
 
-![Screenshot](https://raw.github.com/bbogdasha/urlReader/tree/master/screenshots/Screenshot_1.jpg)
+![Screenshot](https://github.com/bbogdasha/urlReader/tree/master/screenshots/Screenshot_1.jpg)
