@@ -11,3 +11,5 @@ The program reads a text file [urls.txt](https://raw.githubusercontent.com/bbogd
 ### Result
 
 In console sorted top 10 domains without addresses:
+
+![Screenshot](https://raw.github.com/bbogdasha/urlReader/screenshots/Screenshot_1.jpg)
