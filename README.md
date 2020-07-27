@@ -4,8 +4,8 @@ The program reads a text file [urls.txt](https://raw.githubusercontent.com/bbogd
 
 ### Tech
 
-* HashMap, BufferReader.
-* Java 8. Stream.
+* HashMap, BufferReader;
+* Java 8. Stream;
 * Java 8. Lambda.
 
 ### Result
